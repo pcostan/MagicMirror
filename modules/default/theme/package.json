@@ -1,0 +1,20 @@
+{
+  "name": "magic-mirror-theme",
+  "version": "1.0.0",
+  "description": "Default theme",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "grunt dev"
+  },
+  "keywords": [
+    "magic",
+    "mirror",
+    "theme"
+  ],
+  "author": "Paul Costan",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-sass": "^2.0.0"
+  }
+}
